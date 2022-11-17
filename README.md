@@ -4,12 +4,12 @@
   <img src="https://user-images.githubusercontent.com/62433719/146981166-1fd8e777-4346-4524-a9ed-80292cba6030.png?raw=true" alt="softeng's custom image"/>
 </p>
 
-- Αλέξανδρος Κουριδάκης
+## About us
 
-- Αλέξανδος Ματζαφίνης
+This project was created by our team consisting of the members below:
 
-- Συμεών Ποργιώτης 
-
-- Βικέντιος Βιτάλης
-
-- Στέφανος Τσώλος
+- [Alexandros Kouridakis](https://github.com/alex-kouridakis)
+- [Alexandros Matzafinis](https://github.com/SeCre827)
+- [Vikentios Vitalis](https://github.com/VikentiosVitalis)
+- [Simeon Porgiotis]
+- [Stefanos Tsolos](https://github.com/stefanostsolos)
