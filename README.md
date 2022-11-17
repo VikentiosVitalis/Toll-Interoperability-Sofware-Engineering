@@ -9,7 +9,7 @@
 This project was created by our team consisting of the members below:
 
 - [Alexandros Kouridakis](https://github.com/alex-kouridakis)
-- [Alexandros Matzafinis](https://github.com/SeCre827)
+- [Alexandros Matzafinis](https://github.com/)
 - [Vikentios Vitalis](https://github.com/VikentiosVitalis)
-- [Simeon Porgiotis]
+- [Simeon Porgiotis](https://github.com/el18053)
 - [Stefanos Tsolos](https://github.com/stefanostsolos)
