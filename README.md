@@ -10,6 +10,7 @@ This project was created by our team consisting of the members below:
 
 - [Alexandros Kouridakis](https://github.com/alex-kouridakis)
 - [Alexandros Matzafinis](https://github.com/AlexandrosMantzafinis)
+- [Giorgos Bratsiotis](https://github.com/ICantChooseAName)
 - [Vikentios Vitalis](https://github.com/VikentiosVitalis)
 - [Simeon Porgiotis](https://github.com/el18053)
 - [Stefanos Tsolos](https://github.com/stefanostsolos)
